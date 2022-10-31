@@ -20,9 +20,17 @@ export default function ProjectCard({ filtered,list }) {
     <Grid.Container gap={2} justify="flex-start">
       {listApp.map((item, index) => (
         <Grid xs={6} sm={3} key={index}>
-          <Card className="scale-x-150" isPressable isHoverable>
+          <Card isPressable isHoverable>
             <Card.Body css={{ p: 0 }}>
               <Card.Image src={"/aquaN2F.png"} alt={item.title} />
+              <div className="absolute w-full h-full bg-black opacity-0 hover:opacity-80 p-2">
+                <Text className="text-left">{item.description}</Text>
+                  <div className="flex flex-row justify-evenly">
+                    {item.ProgLang.map((lang, index) => (
+                        <Text key={index} className="px-2 bg-green-700 rounded">{lang}</Text>
+                    ))}
+                    </div>
+                </div>
             </Card.Body>
             <Card.Footer css={{ justifyItems: "flex-start" }}>
               <Row wrap="wrap" justify="space-between" align="center">

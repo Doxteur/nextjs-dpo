@@ -1,0 +1,71 @@
+[
+  {
+    "title": "Aqua Gestion",
+    "img": "/images/fruit-1.jpeg",
+    "description": "Aqua Gestion est une société spécialisée dans la gestion de l'eau. Elle propose des solutions innovantes pour la gestion de l'eau et la réduction des coûts d'exploitation.",
+    "price": "$5.50",
+    "ProgLang": ["js", "php", "mysql"],
+    "type": "web"
+  },
+  {
+    "title": "Tangerine",
+    "img": "/images/fruit-2.jpeg",
+    "price": "$3.00",
+    "description": "Aqua Gestion est une société spécialisée dans la gestion de l'eau. Elle propose des solutions innovantes pour la gestion de l'eau et la réduction des coûts d'exploitation.",
+    "ProgLang": ["js", "php", "mysql"],
+
+    "type": "mobile"
+  },
+  {
+    "title": "Cherry",
+    "img": "/images/fruit-3.jpeg",
+    "description": "Aqua Gestion est une société spécialisée dans la gestion de l'eau. Elle propose des solutions innovantes pour la gestion de l'eau et la réduction des coûts d'exploitation.",
+    "ProgLang": ["js", "php", "mysql"],
+
+    "price": "$10.00",
+    "type": "web"
+  },
+  {
+    "title": "Lemon",
+    "img": "/images/fruit-4.jpeg",
+    "description": "Aqua Gestion est une société spécialisée dans la gestion de l'eau. Elle propose des solutions innovantes pour la gestion de l'eau et la réduction des coûts d'exploitation.",
+    "ProgLang": ["js", "php", "mysql"],
+
+    "price": "$5.30",
+    "type": "mobile"
+  },
+  {
+    "title": "Avocado",
+    "img": "/images/fruit-5.jpeg",
+    "description": "Aqua Gestion est une société spécialisée dans la gestion de l'eau. Elle propose des solutions innovantes pour la gestion de l'eau et la réduction des coûts d'exploitation.",
+    "ProgLang": ["js", "php", "mysql"],
+
+    "price": "$15.70",
+    "type": "web"
+  },
+  {
+    "title": "Lemon 2",
+    "img": "/images/fruit-6.jpeg",
+    "description": "Aqua Gestion est une société spécialisée dans la gestion de l'eau. Elle propose des solutions innovantes pour la gestion de l'eau et la réduction des coûts d'exploitation.",
+    "ProgLang": ["js", "php", "mysql"],
+
+    "price": "$8.00",
+    "type": "mobile"
+  },
+  {
+    "title": "Banana",
+    "img": "/images/fruit-7.jpeg",
+    "description": "Aqua Gestion est une société spécialisée dans la gestion de l'eau. Elle propose des solutions innovantes pour la gestion de l'eau et la réduction des coûts d'exploitation.",
+    "ProgLang": ["js", "php", "mysql"],
+
+    "price": "$7.50"
+  },
+  {
+    "title": "Watermelon",
+    "img": "/images/fruit-8.jpeg",
+    "description": "Aqua Gestion est une société spécialisée dans la gestion de l'eau. Elle propose des solutions innovantes pour la gestion de l'eau et la réduction des coûts d'exploitation.",
+    "ProgLang": ["js", "php", "mysql"],
+
+    "price": "$12.20"
+  }
+]
