@@ -13,7 +13,7 @@ function Projects() {
 
   return (
     <anchor id="projects">
-      <Text h2 className="mt-6">
+      <Text h2 className="mt-6 z-10">
         My Projects
       </Text>
       <Container fluid>
